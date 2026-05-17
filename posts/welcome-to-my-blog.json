@@ -1,0 +1,9 @@
+{
+  "slug": "welcome-to-my-blog",
+  "title": "欢迎来到我的博客",
+  "excerpt": "这是一篇关于博客搭建的文章，记录了我使用React和Vite创建这个博客的过程。",
+  "category": "技术",
+  "tags": ["React", "Vite", "博客"],
+  "date": "2024-01-15",
+  "author": "博主"
+}
